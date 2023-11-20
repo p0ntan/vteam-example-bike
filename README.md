@@ -13,4 +13,3 @@ I det här repot görs allt i bash-skriptet, utan en docker-compose, för att vi
 
 Som startar containern, och sedan är man inne i containern för att visa hur man kan jobba kvar i containern och köra sina filer där.
 
-## Litet extra test
